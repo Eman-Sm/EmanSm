@@ -1,5 +1,3 @@
-# EmanSm.github.io
-My Portpolio
 <!DOCTYPE html>
 <html lang="en">
   <head>
