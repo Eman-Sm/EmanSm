@@ -320,6 +320,12 @@ body {
   color: var(--pink);
   border: 1px solid white;
 }
+
+.gifts .noreq {
+  font weight: bold;
+  font-size: 2rem;
+}
+
 footer {
   padding: 3rem;
   background-color: var(--pink);
