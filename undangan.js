@@ -29,7 +29,7 @@ simplyCountdown(".simply-countdown", {
   countUp: false, // enable count up if set to true
 });
 
-hamburger klik
+// hamburger klik
 
 // const stickyTop = document.querySelector(".sticky-top");
 // const offcanvas = document.querySelector(".offcanvas");
